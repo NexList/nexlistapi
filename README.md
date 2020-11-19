@@ -1,3 +1,8 @@
+# Instalação
+Digite no terminal o seguinte:
+``npm install ntlapi.js``
+<br>
+
 # Iniciar
 ```js
 const NTLAPI = require("ntlapi.js");
